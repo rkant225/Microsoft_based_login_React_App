@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Microsoft_based_login_React_App/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/Microsoft_based_login_React_App/static/js/main.c8df6e1c.chunk.js",
+    "main.js.map": "/Microsoft_based_login_React_App/static/js/main.c8df6e1c.chunk.js.map",
+    "runtime-main.js": "/Microsoft_based_login_React_App/static/js/runtime-main.156a862d.js",
+    "runtime-main.js.map": "/Microsoft_based_login_React_App/static/js/runtime-main.156a862d.js.map",
+    "static/js/2.94c64145.chunk.js": "/Microsoft_based_login_React_App/static/js/2.94c64145.chunk.js",
+    "static/js/2.94c64145.chunk.js.map": "/Microsoft_based_login_React_App/static/js/2.94c64145.chunk.js.map",
+    "index.html": "/Microsoft_based_login_React_App/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/Microsoft_based_login_React_App/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.94c64145.chunk.js.LICENSE.txt": "/Microsoft_based_login_React_App/static/js/2.94c64145.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Microsoft_based_login_React_App/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.156a862d.js",
+    "static/js/2.94c64145.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.c8df6e1c.chunk.js"
+  ]
+}
